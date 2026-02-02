@@ -111,7 +111,7 @@ export IDENTITY_FILE="$HOME/path/yourprivkey.pem"
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/aws-c2-launcher.git
+   git clone https://github.com/Jancsg/aws-c2-launcher.git
    cd aws-c2-launcher
    ```
 
